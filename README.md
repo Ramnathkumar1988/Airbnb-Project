@@ -29,6 +29,9 @@ Finally, when we look at the correlation results for the entire dataset between,
 # Files in the repository
 The repository contains a readme and project file. Readme files gives a overview and technical details of the project while the project file is a jupyter notebook file with codes in it. 
 
+# Acknowledgement
+Datset is from Airbnb City of Seattle dataset. In terms of library used, thanks for Jensky (https://github.com/mthh/jenkspy) and folium. 
+
 
 
 
