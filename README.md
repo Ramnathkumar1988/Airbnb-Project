@@ -32,6 +32,9 @@ The repository contains a readme and project file. Readme files gives a overview
 # Acknowledgement
 Datset is from Airbnb City of Seattle dataset. In terms of library used, thanks for Jensky (https://github.com/mthh/jenkspy) and folium. 
 
+Check Out the blog post as well
+https://medium.com/@ramnathkumar8/must-knows-about-seattle-airbnbs-170b5a57c0e2
+
 
 
 
